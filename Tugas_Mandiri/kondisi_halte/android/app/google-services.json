@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "356684089267",
+    "firebase_url": "https://urbanstop-monitoring-default-rtdb.firebaseio.com",
+    "project_id": "urbanstop-monitoring",
+    "storage_bucket": "urbanstop-monitoring.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356684089267:android:bdcee9b5a020d50c81adc6",
+        "android_client_info": {
+          "package_name": "com.example.kondisi_halte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXY4ac4Tiwu5jgryYHXeOJNFKKtM7uayo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
